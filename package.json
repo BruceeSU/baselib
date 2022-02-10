@@ -1,0 +1,25 @@
+{
+  "name": "@BruceeSU/baselib",
+  "version": "1.0.0",
+  "description": "unity开发基础库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BruceeSU/baselib.git"
+  },
+  "keywords": [
+	"baselib"
+  ],
+  "author": "BruceeSu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BruceeSU/baselib/issues"
+  },
+  "homepage": "https://github.com/BruceeSU/baselib#readme",
+  "publishConfig":{
+	"registry":"https://npm.pkg.github.com"
+  }
+}
